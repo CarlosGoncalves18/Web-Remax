@@ -1,0 +1,93 @@
+﻿body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #becbff;
+}
+
+
+/*navigation bar*/
+.light {
+    background-color: #dee1ec;
+}
+
+nav a {
+    color: #33313b;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+nav li {
+    margin-right: 60px;
+    font-size: medium;
+}
+
+nav a:hover {
+    color: #c82121;
+}
+
+/*slider*/
+.txt-position {
+    margin-bottom: 100px;
+}
+
+.btn-size {
+    width: 150px;
+    height: 50px;
+    font-size: 15px;
+}
+
+#text-align {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/*call to action*/
+.btn-color {
+    background-color: rgb(229, 48, 48);
+    border-color: rgb(229, 48, 48);
+    color: #ffffff;
+}
+
+.space {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*Footer*/
+footer {
+    margin-top: 30px;
+    text-align: center;
+    background-color: #dee1ec;
+}
+
+.footer-description {
+    color: #33313b;
+    font-size: medium;
+    padding: 20px 0;
+}
+
+/*-----agentPage-----*/
+.table-design {
+    background-color: #222831;
+    margin-bottom: 30px;
+}
+
+.text-center {
+   color: #dee1ec;
+}
+
+td {
+    margin-bottom: 10px;
+}
+
+/*-----messagePage-----*/
+.message {
+    margin-top: 20px;
+}
+
+.tb-message {
+    width: 50%;
+}
+
+table td {
+    font-size: large;
+}
